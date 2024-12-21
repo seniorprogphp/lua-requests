@@ -16,7 +16,6 @@ description = {
 dependencies = {
   "lua >= 5.1",
   "md5",
-  "lua-cjson",
   "xml",
 }
 build = {
